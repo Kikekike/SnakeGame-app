@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="layout_size_0dp">0dp</dimen>
+    <dimen name="size_0dp">0dp</dimen>
+    <dimen name="size_35dp">35dp</dimen>
+    <dimen name="size_50dp">50dp</dimen>
+    <dimen name="size_130dp">130dp</dimen>
+
     <dimen name="margin_space_4dp">4dp</dimen>
     <dimen name="margin_space_8dp">8dp</dimen>
     <dimen name="margin_space_12dp">12dp</dimen>
     <dimen name="margin_space_16dp">16dp</dimen>
     <dimen name="margin_space_24dp">24dp</dimen>
     <dimen name="margin_space_32dp">32dp</dimen>
+    <dimen name="margin_space_64dp">64dp</dimen>
 
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="text_size_18sp">18sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_25sp">25sp</dimen>
+    <dimen name="text_size_32sp">32sp</dimen>
+    <dimen name="text_size_48sp">48sp</dimen>
+
+    <dimen name="rotate_grade_23">23</dimen>
+    <dimen name="rotate_grade_180">180</dimen>
+    <dimen name="rotate_grade_negative_23">-23</dimen>
 
 </resources>
